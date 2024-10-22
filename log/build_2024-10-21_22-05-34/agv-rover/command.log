@@ -1,0 +1,4 @@
+Invoking command in '/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover -- -j8 -l8
+Invoked command in '/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover -- -j8 -l8
+Invoking command in '/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover
+Invoked command in '/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover

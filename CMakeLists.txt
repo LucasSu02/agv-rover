@@ -33,6 +33,12 @@ if(BUILD_TESTING)
 endif()
 
 install(
+  PROGRAMS
+  continuous_waypoint_follower.py  # Ensure this path is correct
+  DESTINATION lib/${PROJECT_NAME}
+)
+
+install(
   DIRECTORY config description launch worlds
   DESTINATION share/${PROJECT_NAME}
 )
