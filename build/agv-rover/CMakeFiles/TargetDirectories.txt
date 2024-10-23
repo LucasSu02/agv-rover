@@ -1,9 +1,0 @@
-/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover/CMakeFiles/uninstall.dir
-/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover/CMakeFiles/agv-rover_uninstall.dir
-/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover/CMakeFiles/test.dir
-/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover/CMakeFiles/edit_cache.dir
-/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover/CMakeFiles/rebuild_cache.dir
-/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover/CMakeFiles/list_install_components.dir
-/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover/CMakeFiles/install.dir
-/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover/CMakeFiles/install/local.dir
-/home/fawzan/Documents/agv_rover/src/agv-rover/build/agv-rover/CMakeFiles/install/strip.dir
