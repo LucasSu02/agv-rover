@@ -1,4 +1,0 @@
-waypoints:
-  - [0.0, 0.0, 0.0]  # Waypoint 1
-  - [1.0, 1.0, 0.0]  # Waypoint 2
-  - [2.0, 0.0, 0.0]  # Waypoint 3

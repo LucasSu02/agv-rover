@@ -1,1 +1,0 @@
-/home/fawzan/Documents/agv_rover/src/agv-rover/launch/launch_sim.launch.py

@@ -1,8 +1,0 @@
-source;share/agv-rover/hook/cmake_prefix_path.ps1
-source;share/agv-rover/hook/cmake_prefix_path.dsv
-source;share/agv-rover/hook/cmake_prefix_path.sh
-source;share/agv-rover/local_setup.bash
-source;share/agv-rover/local_setup.dsv
-source;share/agv-rover/local_setup.ps1
-source;share/agv-rover/local_setup.sh
-source;share/agv-rover/local_setup.zsh
